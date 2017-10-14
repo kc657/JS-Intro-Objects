@@ -1,6 +1,6 @@
 # 2017 Congressional App Challenge Workshop
 
-**Who Am I?**  [https://compilekev.in](https://compilekev.in) </br>
+**Who Am I?**  [Personal Webpage](https://compilekev.in) </br>
 I’m Kevin Chen, full-stack developer and motorcycle enthusiast. Before settling down in the Bay on May 2017, I lived in Chicago for a year, and a year in Taiwan, and a year.. Long story short, I lived in 8 cities across the globe and visited over 20. I am aiming to visit 30 countries before I turn 30 years old. I love creating challenging applications to test my creative and technical limitations.
 
 What I Write: JavaScript(ES6) | React | Python | HTML | CSS | Express | Mongoose | Node.js | MongoDB | PostgreSQL | Git/GitHub | Bash | Bootstrap | Ruby on Rails | RSpec | Bootstrap | Materialize | React Materialize | jQuery | API | Loopback | Bluemix | Heroku </br>
