@@ -1,7 +1,6 @@
 # JavaScript Data Types
 
 ### Why is this important?
-<!-- framing the "why" in big-picture/real world examples -->
 *This workshop is important because:*
 
 **Why JavaScript?**
@@ -70,7 +69,7 @@ One of JavaScript's quirks is having both `null` and `undefined`. As a rule of t
  Whiteboarding on your table, write what primitive type you would expect each piece of data about a person to be represented as:
 
 1. `name`
-1. `isGaStudent`, whether or not they are a student at GA
+1. `isStudent`, whether or not they are a student
 1. `age`
 1. `city`
 1. `state`
@@ -481,7 +480,7 @@ Practice with this [training](https://github.com/SF-WDI-LABS/js-data-types-train
 
 ## Closing Thoughts
 
-For web developers, it's critically important to be able to work with JavaScript objects.  JavaScript's features are mostly built into objects like `Date`, `Math`, and `document`. We'll cover objects in more detail later.
+For developers, it's critically important to be able to work with JavaScript objects.  JavaScript's features are mostly built into objects like `Date`, `Math`, and `document`. We'll cover objects in more detail later.
 
 The most important things to practice right now are:
 
