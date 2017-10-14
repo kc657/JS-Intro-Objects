@@ -19,7 +19,8 @@ JavaScript is the most complete, capable language usable across browsers. It let
 
 The need to process **information** drives programming languages.  JavaScript's data types define how it can store and manipulate information. They're the building blocks of everything that can be done in JavaScript.
 
-**Contact Me**
-Email: kvn.0218@gmail.com
-Phone: 818-928-9221
+**Contact Me** </br>
+If you run into any technical questions, feel free to contact me!</br>
+Email: kvn.0218@gmail.com </br>
+Phone: 818-928-9221 </br>
 LinkedIn: [Link](https://www.linkedin.com/in/kc657)
