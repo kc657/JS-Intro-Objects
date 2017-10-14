@@ -112,7 +112,43 @@ In JavaScript, you can also use a `+` operator on strings. This is called **stri
 // "WDI 2017"
 ```
 
-
+<table class="w3-table-all notranslate">
+<tbody><tr>
+<th style="width:25%">Operator</th>
+<th>Example</th>
+<th>Same As</th>
+</tr>
+<tr>
+<td>=</td>
+<td>x = y</td>
+<td>x = y</td>
+</tr>
+<tr>
+<td>+=</td>
+<td>x += y</td>
+<td>x = x + y</td>
+</tr>
+<tr>
+<td>-=</td>
+<td>x -= y</td>
+<td>x = x - y</td>
+</tr>
+<tr>
+<td>*=</td>
+<td>x *= y</td>
+<td>x = x * y</td>
+</tr>
+<tr>
+<td>/=</td>
+<td>x /= y</td>
+<td>x = x / y</td>
+</tr>
+<tr>
+<td>%=</td>
+<td>x %= y</td>
+<td>x = x % y</td>
+</tr>
+</tbody></table>
 <table class="w3-table-all notranslate">
 <tbody><tr>
 <th style="width:12%">Operator</th>
