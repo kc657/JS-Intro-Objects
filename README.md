@@ -115,38 +115,35 @@ In JavaScript, you can also use a `+` operator on strings. This is called **stri
 <table class="w3-table-all notranslate">
 <tbody><tr>
 <th style="width:25%">Operator</th>
-<th>Example</th>
-<th>Same As</th>
+<th>Description</th>
 </tr>
 <tr>
-<td>=</td>
-<td>x = y</td>
-<td>x = y</td>
+<td>+</td>
+<td>Addition</td>
 </tr>
 <tr>
-<td>+=</td>
-<td>x += y</td>
-<td>x = x + y</td>
+<td>-</td>
+<td>Subtraction</td>
 </tr>
 <tr>
-<td>-=</td>
-<td>x -= y</td>
-<td>x = x - y</td>
+<td>*</td>
+<td>Multiplication</td>
 </tr>
 <tr>
-<td>*=</td>
-<td>x *= y</td>
-<td>x = x * y</td>
+<td>/</td>
+<td>Division</td>
 </tr>
 <tr>
-<td>/=</td>
-<td>x /= y</td>
-<td>x = x / y</td>
+<td>%</td>
+<td>Modulus</td>
 </tr>
 <tr>
-<td>%=</td>
-<td>x %= y</td>
-<td>x = x % y</td>
+<td>++</td>
+<td>Increment</td>
+</tr>
+<tr>
+<td>--</td>
+<td>Decrement</td>
 </tr>
 </tbody></table>
 <table class="w3-table-all notranslate">
