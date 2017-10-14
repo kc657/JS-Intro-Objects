@@ -113,19 +113,48 @@ In JavaScript, you can also use a `+` operator on strings. This is called **stri
 ```
 
 
-ES6 introduced a more powerful way to combine strings, variables and expressions, called **template literals**.  Get in the habit of using them!
-
-```js
-var target = 'world';   // in ES6, we'll use let instead of var. more on that soon!
-`${target}`
-// "world"
-
-`Hello, ${target}!`
-// "Hello, world!"
-
-`WDI ${2000 + 17}`;
-// "WDI 2017"
-```
+<table class="w3-table-all notranslate">
+<tbody><tr>
+<th style="width:12%">Operator</th>
+<th>Description</th>
+</tr>
+<tr>
+<td>==</td>
+<td>equal to</td>
+</tr>
+<tr>
+<td>===</td>
+<td>equal value and equal type</td>
+</tr>
+<tr>
+<td>!=</td>
+<td>not equal</td>
+</tr>
+<tr>
+<td>!==</td>
+<td>not equal value or not equal type</td>
+</tr>
+<tr>
+<td>&gt;</td>
+<td>greater than</td>
+</tr>
+<tr>
+<td>&lt;</td>
+<td>less than</td>
+</tr>
+<tr>
+<td>&gt;=</td>
+<td>greater than or equal to</td>
+</tr>
+<tr>
+<td>&lt;=</td>
+<td>less than or equal to</td>
+</tr>
+<tr>
+<td>?</td>
+<td>ternary operator</td>
+</tr>
+</tbody></table>
 
 ## Variables
 
