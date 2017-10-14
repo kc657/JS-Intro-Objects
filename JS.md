@@ -108,8 +108,8 @@ In JavaScript, you can also use a `+` operator on strings. This is called **stri
 "Hello, " + "world!";
 // "Hello, world!"
 
-"WDI " + 2017;
-// "WDI 2017"
+"Hackathon " + 2017;
+// "Hackathon 2017"
 ```
 
 <table class="w3-table-all notranslate">
@@ -274,24 +274,9 @@ console.log('outside function scope', sum);
 ```
 
 
-### ES6 Variable Creation: `let` and `const`
+### `const`
 
-Using `var` was the best way to create variables in ES5, but in ES6 two new strategies were introduced.
-
-1. Create a variable with the reserved word `let`, with or without giving it an initial value:
-
-  ```js
-  let highScorer;
-  let highScore = 0;
-  ```
-  
-  The reserved word `let` works very similarly to `var`, except that variables created with `let` :
-  
- * have **block scope** instead of function scope
- * do not get hoisted
- * can't be redeclared at the same scope level (the value can change, though)
-
-2. Create a constant with the reserved word `const`, and give it an initial value:
+Create a constant with the reserved word `const`, and give it an initial value:
 
   ```js
   const minimum = 0;
@@ -299,19 +284,10 @@ Using `var` was the best way to create variables in ES5, but in ES6 two new stra
 
 Variables created with the reserved word `const`:
 
-* have **block scope** instead of function scope (like `let`)
-* do not get hoisted
 * are **constant** - they can NEVER be changed inside their scope
+* prefer `const` for any named values that don't need to change
+- prefer `var` for any variables that do change
 
-### Best Practices for Variable Creation
-
-Now that ES6 is fully in use, best practices say:  
-- prefer `const` for any named values that don't need to change
-- prefer `let` for any variables that do change
-- avoid `var`
-- never declare a variable without a keyword
-
-In WDI, you will use code with `let`, `const`, and `var` so that you can read, write, and debug any version.
 
 ## Objects
 
