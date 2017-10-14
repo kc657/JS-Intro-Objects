@@ -75,7 +75,7 @@ For example:
 - _As a user, I want to read reviews of a selected book to help me decide whether to buy **_
 - _As an admin, I want to update the inventory of a selected book so my users know what is available.**_
 
-Integrating with Wireframe: 
+Integrating with Wireframe:  </br>
 Add a user story for each part of your wireframe. If you add a button, explain the purpose of that button and why that adds value to your application.
 
 
