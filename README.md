@@ -1,6 +1,6 @@
 # 2017 Congressional App Challenge Workshop
 
-**Why Wireframe?** [Github Link](www.google.com)
+**Why Wireframe?** [Github Link](Wireframe.md) </br>
 Wireframing workshop is important because you need to properly articulate your idea. Wireframes help other people visualize your idea before you build your minimum viable product (MVP). It also helps you plan out your app before you start tackling the code. 
 
 **Why JavaScript?**
