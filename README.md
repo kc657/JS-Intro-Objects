@@ -5,7 +5,7 @@ Wireframing workshop is important because you need to properly articulate your i
 
 **Why JavaScript?**  [Github Link](JS.md) </br>
 
-JavaScript is the most complete, capable language usable across browsers. It lets us change the content of a page programmatically (on the fly) instead of being stuck with just what's written in the HTML code.  It enables complex user interactions.
+JavaScript is the most complete, capable language usable across browsers. It lets us change the content of a page programmatically (on the fly) instead of being stuck with just what's written in the HTML code.  It enables complex user interactions. You can also build full-stack mobile applications using JavaScript so it is not limited to web development.
 
 
 **Why learn data types?**
