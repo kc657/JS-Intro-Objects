@@ -3,7 +3,7 @@
 **Why Wireframe?** [Github Link](Wireframe.md) </br>
 Wireframing workshop is important because you need to properly articulate your idea. Wireframes help other people visualize your idea before you build your minimum viable product (MVP). It also helps you plan out your app before you start tackling the code. 
 
-**Why JavaScript?**
+**Why JavaScript?**  [Github Link](JS-intro.md) </br>
 
 JavaScript is the most complete, capable language usable across browsers. It lets us change the content of a page programmatically (on the fly) instead of being stuck with just what's written in the HTML code.  It enables complex user interactions.
 
