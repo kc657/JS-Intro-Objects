@@ -13,7 +13,7 @@ JavaScript is the most complete, capable language usable across browsers. It let
 
 The need to process **information** drives programming languages.  JavaScript's data types define how it can store and manipulate information. They're the building blocks of everything that can be done in JavaScript.
 
-For web developers, it's also critically important to be able to work with JavaScript objects.  JavaScript's features are mostly built into objects like `Array`, `Function`, and, for web, `document`.
+For developers, it's also critically important to be able to work with JavaScript objects.  JavaScript's features are mostly built into objects like `Array`, `Function`, and, for web, `document`.
 
 
 ### What are the objectives?
